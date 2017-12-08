@@ -1,0 +1,45 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.mohan.project</groupId>
+	<artifactId>parseXML</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<!-- https://mvnrepository.com/artifact/xom/xom -->
+	<dependencies><!-- https://mvnrepository.com/artifact/xom/xom -->
+		<dependency>
+			<groupId>xom</groupId>
+			<artifactId>xom</artifactId>
+			<version>1.2.5</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.wiztools.commons/wiztools-commons-lib -->
+		<dependency>
+			<groupId>org.wiztools.commons</groupId>
+			<artifactId>wiztools-commons-lib</artifactId>
+			<version>0.4.1</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.wiztools/xsd-gen -->
+		 <dependency>
+			<groupId>org.wiztools</groupId>
+			<artifactId>xsd-gen</artifactId>
+			<version>0.2.1</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.google.code.cli-parser/cli -->
+		<dependency>
+			<groupId>com.google.code.cli-parser</groupId>
+			<artifactId>cli</artifactId>
+			<version>7</version>
+		</dependency>
+
+	<!-- https://mvnrepository.com/artifact/org.wiztools.commons/wiztools-commons-lib -->
+		<dependency>
+			<groupId>org.wiztools.commons</groupId>
+			<artifactId>wiztools-commons-lib</artifactId>
+			<version>0.4.1</version>
+		</dependency>
+
+
+	</dependencies>
+
+
+</project>
